@@ -1,14 +1,14 @@
-📧 <h3>Smart Email Assistant</h3>
-A smart email assistant that helps you draft, manage, and respond to emails intelligently using the power of Gemini AI. Built with a modern tech stack combining Spring Boot, Spring AI, React (Vite), and Material UI for a seamless and interactive user experience.
+<h2>📧Smart Email Assistant</h2>
+<p>A smart email assistant that helps you draft, manage, and respond to emails intelligently using the power of Gemini AI. Built with a modern tech stack combining Spring Boot, Spring AI, React (Vite), and Material UI for a seamless and interactive user experience.</p>
 
-🚀 Tech Stack
+🚀 Tech Stack<br>
 Backend: Spring Boot + Spring AI (Gemini)
 
 Frontend: React (Vite) + Material UI
 
 AI: Gemini (Google's GenAI via Spring AI)
 
-✨ Features
+✨ Features<br>
 🧠 AI-powered email drafting and suggestions
 
 📥 Smart replies and summaries
@@ -45,9 +45,12 @@ Start the dev server:
 bash
 Copy
 Edit
-npm run dev
-📸 Demo
-Coming soon! (Add screenshots or demo video link here)
+npm run dev<br><br>
+# 📸Demo
+# Image showing the UI 
+![Image](https://github.com/user-attachments/assets/eaa559a9-c719-4598-8b6b-d9d405152484)<br><br>
+# Image showing the Generated Response
+![Image](https://github.com/user-attachments/assets/f05508bd-a21c-4f8d-a100-6674f83945a3)
 
-🙌 Contribution
+🙌 Contribution<br>
 Contributions and feedback are welcome! Open issues or submit pull requests.
